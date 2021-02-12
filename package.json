@@ -1,0 +1,12 @@
+{
+    "name": "Person Tracker",
+    "version": "1.0.0",
+    "description": "Input Name and DOB and filter by Age and first Character",
+    "scripts": {
+      "start": "serve"
+    },
+    "dependencies": {
+      "serve": "^10.0.1"
+    },
+    "author": "Beezay"
+  }
